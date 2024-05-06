@@ -1,0 +1,66 @@
+_repo: Kanervakukkia-b-Runokiehkura_73387
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Erkko, J. H.
+    alias: Erkko, Juhana Heikki
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '4805'
+    url: http://www.gutenberg.org/2009/agents/4805
+    wikipedia: https://fi.wikipedia.org/wiki/J._H._Erkko
+  - agent_name: Koskimies, Aukusti Valdemar
+    aliases:
+    - Forsman, Aukusti Valdemar
+    - Koskimies, A. V. (Aukusti Valdemar)
+    - Forsman, A. V. (Aukusti Valdemar)
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '46083'
+    url: http://www.gutenberg.org/2009/agents/46083
+    wikipedia: https://fi.wikipedia.org/wiki/A._V._Koskimies
+  - agent_name: Liinamaa-Pärssinen, Hilja
+    aliases:
+    - Liinamaa, Hilja
+    - Liinamaa-Parssinen, Hilja
+    - Pärssinen, Hilja
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '33713'
+    url: http://www.gutenberg.org/2009/agents/33713
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
+    - https://fi.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
+creator:
+  author:
+    agent_name: Stenvall, Hanna
+    aliases:
+    - Kivi, Hanna
+    - Kiwi, Hanna
+    - Stenwall, Hanna
+    - Stenvall, Johanna
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '57052'
+    url: http://www.gutenberg.org/2009/agents/57052
+    wikipedia: https://fi.wikipedia.org/wiki/Hanna_Stenvall
+description: ''
+gutenberg_issued: '2024-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73387'
+language: fi
+pgterms:marc905: 20240412023315stenvallki
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bYrjö Weilin, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Kanervakukkia : $b Runokiehkura'
+url: http://www.gutenberg.org/ebooks/73387
