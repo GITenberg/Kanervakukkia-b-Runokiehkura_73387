@@ -31,6 +31,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
     - https://fi.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stenvall, Hanna
@@ -45,6 +48,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57052
     wikipedia: https://fi.wikipedia.org/wiki/Hanna_Stenvall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73387#Kanervakukkia-b-Runokiehkura
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
